@@ -1,3 +1,6 @@
+
+
+![alt text](um_logo.png)
 # 🧠 Patrones de Diseño – Ingeniería en Informática
 
 ## 📌 Datos del estudiante
