@@ -57,6 +57,9 @@ class BuilderGamer(BuilderComputadora):
     def agregar_procesador(self, procesador):
         self.computadora.procesador = procesador
 
+    def agregar_tarjeta_grafica(self, tarjeta_grafica):
+        self.computadora.tarjeta_grafica = tarjeta_grafica
+
     def obtener_resultado(self):
         return self.computadora
 

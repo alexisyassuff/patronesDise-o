@@ -28,7 +28,7 @@ class OrdenarPorLongitud(EstrategiaOrdenamiento):
 # Contexto
 
 
-class Ordenador:
+class Director:
     def __init__(self, estrategia: EstrategiaOrdenamiento):
         self.estrategia = estrategia
 
@@ -43,11 +43,11 @@ class Ordenador:
 if __name__ == "__main__":
     datos = ["banana", "manzana", "kiwi", "frutilla"]
 
-    ordenador = Ordenador(OrdenarAscendente())
-    print("Ascendente:", ordenador.ordenar_datos(datos))
+    director = Director(OrdenarAscendente())
+    print("Ascendente:", director.ordenar_datos(datos))
 
-    ordenador.set_estrategia(OrdenarDescendente())
-    print("Descendente:", ordenador.ordenar_datos(datos))
+    director.set_estrategia(OrdenarDescendente())
+    print("Descendente:", director.ordenar_datos(datos))
 
-    ordenador.set_estrategia(OrdenarPorLongitud())
-    print("Por longitud:", ordenador.ordenar_datos(datos))
+    director.set_estrategia(OrdenarPorLongitud())
+    print("Por longitud:", director.ordenar_datos(datos))
