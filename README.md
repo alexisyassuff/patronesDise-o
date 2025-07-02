@@ -1,6 +1,5 @@
-
-
 ![alt text](um_logo.png)
+
 # 🧠 Patrones de Diseño – Ingeniería en Informática
 
 ## 📌 Datos del estudiante
@@ -29,7 +28,7 @@ El material se encuentra clasificado en tres grandes grupos, según el tipo de p
 - **Estructurales**
 - **Comportamiento**
 
-Además, se incluyen imágenes de los cuestionarios de práctica, resueltos a mano, que complementan el estudio con fundamentos teóricos y respuestas desarrolladas.
+Además, se incluyen imágenes del cuestionario de práctica enviado por el docente, resueltos a mano, que complementan el estudio con fundamentos teóricos y respuestas desarrolladas.
 
 ---
 
