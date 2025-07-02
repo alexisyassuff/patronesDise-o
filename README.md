@@ -7,7 +7,7 @@
 - **Legajo:** 62072  
 - **Correo institucional:** a.yassuff@alumno.um.edu.ar  
 - **Docentes:**  
-  - Lic. Alberto Alejandro Cortez (Presidente)  
+  - Mg. Alberto Alejandro Cortez (Magíster en Ingeniería de Software)  
   - Ing. Claudia Alejandra Naveda Martínez (Vocal)  
 
 ---
